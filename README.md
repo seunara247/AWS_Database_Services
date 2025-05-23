@@ -4,11 +4,11 @@ This project demonstrates the use of **AWS RDS (MySQL)** and **AWS DynamoDB** by
 
 ## Overview
 
-### 📘 AWS RDS (MySQL)
+### AWS RDS (MySQL)
 
 Amazon RDS (Relational Database Service) is a fully managed database service that supports engines like **MySQL**, **PostgreSQL**, **MariaDB**, and others. It is ideal for applications that need structured data with relationships, SQL queries, and transaction support.
 
-**Use Cases:**
+##### Use Cases:
 
 - E-commerce applications  
 
@@ -16,7 +16,7 @@ Amazon RDS (Relational Database Service) is a fully managed database service tha
 
 - Financial transactions  
 
-**Benefits:**
+##### Benefits:
 
 - Automates backups, patching, and maintenance  
 
@@ -27,11 +27,11 @@ Amazon RDS (Relational Database Service) is a fully managed database service tha
 
 DynamoDB is a serverless NoSQL database service for key-value and document-based data. It offers high availability, durability, and millisecond latency.
 
-**Use Cases:**
+##### Use Cases:
 
 - Applications that need low-latency, high-throughput access to key-value or JSON-like data
 
-**Benefits:**
+##### Benefits:
 
 - Fully serverless
 
@@ -127,4 +127,4 @@ This project helped me understand the difference between relational (SQL) and No
 
 - Create and use a DynamoDB key-value store
 
-- Compare management, performance, and structure between RDS and DynamoDB
+- Compare management, performance, and structure between RDS and DynamoD
